@@ -1,0 +1,159 @@
+body {
+  margin: o;
+  padding: 0;
+}
+
+.navbar-light .container-fluid .navbar-brand {
+  padding-left: 20px;
+}
+
+.section1 {
+  background: #7fb5ff;
+}
+
+.section1 .myphoto {
+  width: 286px;
+  margin: 30px 50px 0 45px;
+}
+
+.section2 {
+  background: #7fb5ff;
+}
+
+.section2 .container2 {
+  background: white;
+  margin: 0 50px 0 45px;
+  padding: 15px 20px 10px 20px;
+}
+
+.section3 {
+  background: #7fb5ff;
+  padding: 0 0 50px 0;
+}
+
+.section3 .container3 {
+  background: #001d6e;
+  margin-right: 50px;
+  margin-left: 45px;
+  padding: 20px 0 10px 45px;
+}
+
+.section3 .lfti {
+  background: white;
+  margin: 5px;
+  border-radius: 30px;
+}
+
+.section4 {
+  background: #f7f5f2;
+}
+
+.section4 .container4 {
+  padding: 72px;
+}
+
+.section4 .container4 .hello {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.section5 {
+  background: white;
+}
+
+.section5 .container5 {
+  text-align: center;
+  margin: 50px 0 0 0;
+  padding: 30px;
+}
+
+.section6 {
+  background: white;
+}
+
+.section6 .container6 {
+  margin: 80px;
+}
+
+.section7 .container7 {
+  margin: 15px 0 0 80px;
+  padding: 30px 0 30px 0;
+}
+
+.section8 {
+  background: #001d6e;
+}
+
+.section8 .container8 {
+  color: white;
+  text-align: center;
+  padding: 15px 0 25px 0;
+}
+
+.section10 {
+  background: #7fb5ff;
+  padding: 20px 0 30px 0;
+}
+
+.section10 .container10 {
+  color: white;
+  background: #001d6e;
+  margin: 30px 20px 40px 20px;
+  text-align: center;
+  padding: 20px 0 30px 0;
+}
+
+.section11 {
+  text-align: center;
+  padding: 20px 35px 30px 35px;
+}
+
+.section11 .h11 {
+  color: #001d6e;
+}
+
+.section12 {
+  background: #f7f5f2;
+}
+
+.section12 .container12 {
+  text-align: center;
+  margin: 50px 0 0 0;
+  padding: 30px;
+}
+
+.section12 .container12 .con12 {
+  color: #001d6e;
+}
+
+.section13 {
+  background: #f7f5f2;
+}
+
+.section13 .container13 {
+  margin: 40px 10px 30px 60px;
+}
+
+.section15 {
+  background: #f7f5f2;
+}
+
+.section15 .container15 {
+  margin: 60px 40px 30px 60px;
+}
+
+.section15 .container15 .n15 {
+  color: #001d6e;
+}
+
+.section15 .container15 .n15 .p15 {
+  color: #7fb5ff;
+}
+
+.section17 .container17 {
+  color: white;
+  margin: 70px 20px 5px 15px;
+  text-align: center;
+  font-size: larger;
+}
+/*# sourceMappingURL=styles.css.map */
